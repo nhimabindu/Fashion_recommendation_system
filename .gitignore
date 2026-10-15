@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local data
+data/*
+
+# Trained model files
+models/*.keras
+models/*.h5
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
